@@ -5,5 +5,5 @@ setTimeout(() =>
 
 // setInterval(() => // se ejecuta cada dos segundos
 //     {
-//         console.log("Esto se ejecuta despues de 2 segundos");
+//         console.log("Esto se ejecuta cada dos segundos");
 //     }, 2000);
